@@ -1,0 +1,7 @@
+package com.pe.jira.consulta.common;
+
+public interface Constants {
+	String STR_COMBOFIELDOPTION_GERENCIA_RESPONSABLE = "10006";
+	String STR_COMBOFIELDOPTION_AREA_RESPONSABLE = "10200";
+	String STR_COMBOFIELDOPTION_AREA_INVOLUCRADA = "10042";
+}
